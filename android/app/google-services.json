@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "638731008537",
+    "project_id": "recipeapp-5121c",
+    "storage_bucket": "recipeapp-5121c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638731008537:android:5da27f51e4abc8d9104888",
+        "android_client_info": {
+          "package_name": "com.example.rec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638731008537-qhk8srrh8mikle2k0906ludrpv2jhv65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rec",
+            "certificate_hash": "4d4f3825a7f615fc6d1e094707a819bb06bfe3e6"
+          }
+        },
+        {
+          "client_id": "638731008537-nb3f0f8sth6kphlbt3nm25f2elbef9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoR0huM0wsWSgfs_5KqS7CFggp7X-dW7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638731008537-nb3f0f8sth6kphlbt3nm25f2elbef9kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638731008537-lq0g975otg8a3h06k9p11vvb73uk2ikk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recipeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638731008537:android:0d2df8bfe2e6250d104888",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638731008537-ef6on9m1b6116q0kiu4nc3n1pgbg0efl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipeapp",
+            "certificate_hash": "4d4f3825a7f615fc6d1e094707a819bb06bfe3e6"
+          }
+        },
+        {
+          "client_id": "638731008537-nb3f0f8sth6kphlbt3nm25f2elbef9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoR0huM0wsWSgfs_5KqS7CFggp7X-dW7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638731008537-nb3f0f8sth6kphlbt3nm25f2elbef9kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638731008537-lq0g975otg8a3h06k9p11vvb73uk2ikk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recipeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
